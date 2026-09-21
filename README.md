@@ -4,8 +4,6 @@
 
 Проєкт створений як початкова точка для подальшого розвитку бекенду: логування, модульного та інтеграційного тестування, а також автентифікації через **Google, GitHub та Microsoft**.
 
-[GitHub repository](https://github.com/sunmeat/aspnetcore_firebase_clean?utm_source=chatgpt.com)
-
 ---
 
 ## Технології
